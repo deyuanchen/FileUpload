@@ -7,6 +7,6 @@
                 <version>3.3</version>  
                 <configuration>  
                   <source>1.8</source>  
-                  <target>1.6</target>  
+                  <target>1.8</target>  
                 </configuration>  
             </plugin>  
